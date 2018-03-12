@@ -1,3 +1,3 @@
 # InvestNote
 
-[投资日记](note201803.md)
+[投资日记](note/note201803.md)
